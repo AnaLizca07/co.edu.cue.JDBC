@@ -14,5 +14,6 @@ public class Product {
     private int id;
     private  String nombre;
     private double precio;
-    private LocalDateTime fecha_registro;
+    private LocalDateTime fechaRegistro;
+    private int categoryId;
 }
